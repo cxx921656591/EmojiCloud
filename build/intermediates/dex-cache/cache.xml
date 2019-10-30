@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.library.tangxiaolv\telegramgallery\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd72aa26220cd3bb0985337992b1b0c27eb24744">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.library.tangxiaolv-telegramgallery-1.0.3_d2136f5379c6f17165c1bf1df650bfaad3f44a8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\libs\mysql-connector-java-5.1.18-bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="85dfedad243dc0303ad7ae3a323c39421d220690">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\mysql-connector-java-5.1.18-bin_bcc8f438e206d0dff38d9c1bd14a7cfbd2467ae9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.2_1a2da99df7ae6159f2e1abe782b628ce23b0499c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_2e3f7bbba17c57096a48cc2ed6b539464ef724d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\okio-1.9.0_0af12a302a2362bac29dd94e80ed37309651bb6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.2_f53e3928c43b58b97ae9d048d457cde9012cc6ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.2_d2586023e334d647d4dd408c4c0a664c70bc2cf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.9.4.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9715585867480e9916e0ce284ac52697678afe4c">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-core-0.9.4.4_fdd3d419e350d6b420e40530b5578ad05c5c741d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.2_a8ddd59b2529e37d8d1c445ddebef036ebb8dc49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\gson-2.8.1_b9f714f66f01ac54a56df879aa58b0d34c826319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.2_8b5b90e03450065965822849201aa6b7f5167227.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.2_9fb745387c149c84173ba62f666df0a146d42ac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.2_a6f02d943494ae67f64fdc276e4b52c693cf3700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.0.0\4c8d1536dba3812cc1592090dc20c47a4ed3c35e\okhttp-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\okhttp-2.0.0_322492b86b6bc56c00da8f366bc474069c4ed6cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_31e31db93d6b4e0abf8c2b9a0c27072836bc0fc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.android.support\support-v13\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="65e43358e942d5181ff49c159e463916c46aaa7a">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-26.0.2_2db324165e998515acba7fce33284e872fed5080.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.2_e208757458b515663a6f8f47868cc2964efdca20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.2_64de3b9ac40dc9e1d4e6ba187588098ad250a9d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\libs\ocr-sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad68d278e1ba7464783e42e8fb4752ad280dfa6">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\ocr-sdk_51bbf2c0343a7bc63e2db61e24d1f7b7eb026586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.2_d1211bca82ec5c737f443433876916f8741e1fda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\glide-3.7.0_6847dc5645c19615c623fcdef96473b3b9ad1f8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\PhotoSelect-master_SqlTest_OOS\oss-android-sdk\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43e05cc327624897c58e7cd01dcb2445c64e649e">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\PhotoSelect-master_SqlTest_OOS-oss-android-sdk-unspecified_e407a7b9dd6de1b0bedc4e0e1877e8f63beb0359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a5cbc42192d2afde319e4babe59bf8e41a49d35">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.4.0_255051897a700018665533a60b2e17c7c57cdc1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_df90a8d69cd22d98ea908a7dede2d286d0ffa545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.2_bbd13502333288aba66d27d2ee85dc538e91eec6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.android.support\design\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.2_1d798c86f3b4e6dc6ae6e943d862028fd4b0bfb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\exploded-aar\com.github.mKunio\photoselect\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec509076997d1f9902a21e05584f58a4e7f5cf37">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\com.github.mKunio-photoselect-unspecified_1d95fae4f69ed050de41663193aef1111f84411a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.2\8b68a849722b44f584e2d68c451c5e3844c10380\support-annotations-26.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="E:\biaoqingyun\PhotoSelect-master_SqlTest_OOS\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.2_38bd47ae777df6943a1ffeb4b8c84041e0191e86.jar" />
+    </item>
+
+</items>
