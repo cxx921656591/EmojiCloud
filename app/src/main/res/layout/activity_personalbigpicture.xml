@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/utterlayout"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <!--大图-->
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="300dip"
+        android:layout_height="300dip"
+        android:layout_margin="10dip"
+        android:layout_gravity="center"
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <!--图片标签-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dip"
+            android:text="标签:"
+            android:textSize="20dip"
+            android:layout_alignParentLeft="true"/>
+
+        <!--增添-->
+        <TextView
+            android:id="@+id/add_label"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:background="@mipmap/add_button"
+            android:layout_alignParentRight="true"
+            android:onClick="AddLabel"
+            />
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/LabelText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <!--此处放置图片标签，在代码中设置-->
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+
+        <!--分享按钮-->
+        <TextView
+            android:layout_width="50dip"
+            android:layout_height="30dip"
+            android:layout_marginLeft="10dip"
+            android:background="@drawable/bg_button"
+            android:textColor="@color/white"
+            android:paddingLeft="5dip"
+            android:textSize="20dip"
+            android:text="分享"
+            android:onClick="ShareToPublicSpace"/>
+
+        <!--下载按钮-->
+        <TextView
+            android:id="@+id/download"
+            android:layout_width="50dip"
+            android:layout_height="30dip"
+            android:layout_marginLeft="10dip"
+            android:background="@drawable/bg_button"
+            android:textColor="@color/white"
+            android:paddingLeft="5dip"
+            android:textSize="20dip"
+            android:text="下载"
+            android:onClick="Download"/>
+
+
+
+
+    </LinearLayout>
+
+
+    <!--提示信息-->
+    <TextView
+        android:id="@+id/info_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+</LinearLayout>

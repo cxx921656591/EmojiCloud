@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mlearn.sabachina.com.cn.mygithub">
+    <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.CAMERA"/>
+
+
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".activity.ocr_MainActivity">
+        </activity>
+        <!--以下记录所有的Activity-->
+        <activity
+            android:name=".activity.MainActivity"
+            android:windowSoftInputMode="adjustPan|stateAlwaysHidden">         <!--共享库界面-->
+        </activity>
+        <activity
+            android:name=".activity.SearchActivity">             <!--搜索结果界面-->
+        </activity>
+        <activity
+            android:name=".activity.BigPictureActivity">          <!--共享库对应的大图界面-->
+        </activity>
+        <activity
+            android:name=".activity.LoginActivity">             <!--登录界面，为初始界面-->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.RegisterActivity">             <!--注册界面-->
+        </activity>
+        <activity
+            android:name=".activity.PersonalSpaceActivity"
+            android:windowSoftInputMode="adjustPan|stateAlwaysHidden">        <!--个人库界面-->
+
+        </activity>
+        <activity
+            android:name=".activity.PersonalBigPictureActivity">             <!--个人库对应的大图界面-->
+        </activity>
+        <activity
+            android:name=".activity.SettingActivity">             <!--个人库对应的大图界面-->
+        </activity>
+        <activity
+            android:name=".activity.ModifyPasswordActivity">             <!--个人库对应的大图界面-->
+        </activity>
+
+
+        <activity
+
+            android:name=".activity.AuthTestActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        </activity>
+        <activity android:name="com.tangxiaolv.telegramgallery.GalleryActivity" />
+
+
+    </application>
+
+</manifest>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--在最外层设置一个滚动视图-->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--内部为一个垂直方向的线性布局-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/viewGroup"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--搜索结果-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="10dip"
+        android:text="搜索结果"/>
+
+    <!--由于数量不定，后面显示的图片在代码中设置-->
+
+</LinearLayout>
+</ScrollView>

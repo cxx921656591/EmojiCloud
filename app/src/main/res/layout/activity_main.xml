@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true">
+
+    <!--内层线性布局,方向为水平-->
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="500dip"
+        android:layout_height="60dip">
+
+        <!--搜索框-->
+        <EditText
+            android:id="@+id/search_text"
+            android:layout_width="280dip"
+            android:layout_height="35dip"
+            android:background="@drawable/bg_edittext"
+            android:layout_margin="10dip"
+            android:paddingLeft="10dip"
+            android:inputType="text"
+            android:maxLength="30"
+            android:hint="输入关键字搜索图片"
+            />
+
+        <!--搜索按钮-->
+        <Button
+            android:id="@+id/search_but"
+            android:layout_width="70dip"
+            android:layout_height="35dip"
+            android:background="@drawable/bg_button"
+            android:layout_marginTop="10dip"
+            android:text="搜索"
+            android:onClick="onClick"/>
+    </LinearLayout>
+
+    <!--最新-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="10dip"
+        android:textSize="18sp"
+        android:text="最新"/>
+
+    <!--下面显示6张最新的图片，包含两个水平方向的线性布局，每个linearlayout包含三张图片-->
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal"
+        android:layout_width="350dip"
+        android:layout_height="120dip"
+        android:layout_margin="10dip">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="100dip"
+        android:layout_height="100dip"
+        android:layout_margin="5dip"
+        android:layout_gravity="center"
+        />
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="100dip"
+        android:layout_height="100dip"
+        android:layout_margin="5dip"
+        android:layout_gravity="center"
+        />
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="100dip"
+        android:layout_height="100dip"
+        android:layout_margin="5dip"
+        android:layout_gravity="center"
+        />
+</LinearLayout>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="350dip"
+    android:layout_height="120dip"
+    android:layout_margin="10dip">
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="100dip"
+        android:layout_height="100dip"
+        android:layout_margin="5dip"
+        android:layout_gravity="center"
+        />
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="100dip"
+        android:layout_height="100dip"
+        android:layout_margin="5dip"
+        android:layout_gravity="center"
+        />
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="100dip"
+        android:layout_height="100dip"
+        android:layout_margin="5dip"
+        android:layout_gravity="center"
+        />
+    </LinearLayout>
+</LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/ly_tab_bar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+
+        >
+
+        <TextView
+            android:id="@+id/txt_my"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/tab_menu_bg"
+            android:drawablePadding="3dp"
+            android:drawableTop="@drawable/tab_menu_my"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="我的"
+            android:textColor="@drawable/tab_menu_text"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/txt_public"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/tab_menu_bg"
+            android:drawablePadding="3dp"
+            android:drawableTop="@drawable/tab_menu_public"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="发现"
+            android:textColor="@drawable/tab_menu_text"
+            android:textSize="16sp" />
+
+
+        <TextView
+            android:id="@+id/txt_setting"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/tab_menu_bg"
+            android:drawablePadding="3dp"
+            android:drawableTop="@drawable/tab_menu_setting"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="设置"
+            android:textColor="@drawable/tab_menu_text"
+            android:textSize="16sp"/>
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/div_tab_bar"
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="#D9D9D9"
+        android:layout_above="@id/ly_tab_bar"/>
+
+</RelativeLayout>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--外层线性布局，方向为垂直-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30sp"
+        android:layout_marginTop="20dip"
+        android:layout_marginBottom="20dip"
+        android:text="用户登录" />
+    <!--用户名-->
+    <EditText
+        android:id="@+id/phonenumber"
+        android:layout_width="350dip"
+        android:layout_height="50dip"
+        android:background="@drawable/bg_edittext"
+        android:layout_gravity="center"
+        android:layout_margin="10dip"
+        android:paddingLeft="20dip"
+        android:inputType="phone"
+        android:maxLength="11"
+        android:hint="手机号"
+        />
+
+    <!--密码-->
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="350dip"
+        android:layout_height="50dip"
+        android:background="@drawable/bg_edittext"
+        android:layout_gravity="center"
+        android:layout_margin="10dip"
+        android:paddingLeft="20dip"
+        android:inputType="textPassword"
+        android:maxLength="16"
+        android:hint="密码"
+        />
+
+    <!--错误提示信息-->
+    <TextView
+        android:id="@+id/error_info"
+        android:layout_width="wrap_content"
+        android:layout_height="30dip"
+        android:layout_gravity="center"/>
+
+
+
+    <!--登录按钮-->
+    <Button
+        android:id="@+id/login_button"
+        android:layout_width="200dip"
+        android:layout_height="50dip"
+        android:layout_gravity="center"
+        android:background="@drawable/bg_button"
+        android:text="登录"
+        android:onClick="Login"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center">
+
+    <!--注册按钮-->
+    <Button
+        android:id="@+id/register_button"
+        android:layout_width="wrap_content"
+        android:layout_height="30dip"
+        android:layout_gravity="center"
+        android:background="@android:color/transparent"
+        android:text="注册账号"
+        android:onClick="Register"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dip"
+            android:layout_gravity="center"
+            android:layout_marginTop="6dip"
+            android:text="|"/>
+
+    <!--忘记密码-->
+    <Button
+        android:id="@+id/forget_password_button"
+        android:layout_width="wrap_content"
+        android:layout_height="30dip"
+        android:layout_gravity="center"
+        android:background="@android:color/transparent"
+        android:text="忘记密码"
+        android:onClick="ForgetPassword"/>
+
+        </LinearLayout>
+
+</LinearLayout>
